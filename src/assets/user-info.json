@@ -1,0 +1,10 @@
+[
+    {
+        "email": "admin@mailinator.com",
+        "password": "admin123"
+    },
+    {
+        "email": "user12@mailinator.com",
+        "password": "demouser123"
+    }
+]
